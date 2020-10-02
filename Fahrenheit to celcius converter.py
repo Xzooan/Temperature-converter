@@ -1,4 +1,4 @@
-# Aditya Srivastava
+
 
 
 num=float(input("Enter the number:"))
